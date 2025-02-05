@@ -45,11 +45,6 @@ Tools: Postman, Git, Maven
 
 📌 Command Side (Write Operations)
 
-Method
-
-Endpoint
-
-Description
 
 POST
 
@@ -71,11 +66,6 @@ Delete a product by ID
 
 📌 Query Side (Read Operations)
 
-Method
-
-Endpoint
-
-Description
 
 GET
 
