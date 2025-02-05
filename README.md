@@ -105,6 +105,24 @@ Test APIs in Postman
 
 Use Postman or any API client to send requests to http://localhost:8086/products
 
+💡 Use Cases
+
+E-commerce System
+
+Maintain separate models for product inventory updates (write) and customer product views (read) to ensure scalability.
+
+Banking Transactions
+
+Separate transaction processing from account balance queries to improve performance and consistency.
+
+Event-Driven Applications
+
+Use event listeners to keep data synchronized across different services and databases.
+
+Microservices Architecture
+
+Ensure separation of concerns by implementing CQRS for better service decoupling and efficiency.
+
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
